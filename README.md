@@ -1,4 +1,5 @@
 # Destini 🤔
+<p align="center"><br><img src="https://github.com/londonappbrewery/Images/blob/master/Destini.gif" height="440" width="auto"><br><br></p>
 
 ## Our Goal
 
